@@ -9,18 +9,21 @@ Hi! 👋 I'm Dr. Nikko Stevens - a technology researcher, software engineer, and
 
 <h3>🏢 Work</h3>
 
-I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ignazio's [Data plus Feminism](https://dataplusfeminism.mit.edu) lab.  
+I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ignazio's [Data plus Feminism](https://dataplusfeminism.mit.edu) lab.  In the Fall, I will join Smith College's [Statistical and Data Sciences department](https://www.smith.edu/academics/statistical-data-sciences) as an Assistant Professor. 
 
 <h3>📆 Events</h3>
 
 **Upcoming:** 
-- [Software From the Inside Out @ MIT Sept 24](/posts/2024-09-20-mit-talk/)
-- Talk (title TBD) @ Dartmouth Oct 9
-- Talk (title TBD) & student visit @ Georgia Institute of Technology
-- Talk: Speculative Software Methods @ University of Alabama, November 21
+- March 10-13: I'm giving the closing keynote @ [Code4Lib @ Princeton](https://2025.code4lib.org/).  
+- April 18-20: I'm joining the Black Sound Lab at Fort Valley State University to create and install another data-driven sound art piece
+- June 20-July 1: Princeton University Press Book Development Grant Writers' Retreat
 
 
 **Recently:**
+- [Software From the Inside Out @ MIT Sept 24](/posts/2024-09-20-mit-talk/)
+- Talk: Reverse Engineering as Speculative Method @ Dartmouth College Oct 9
+- Visiting sermon student visit @ Georgia Institute of Technology
+- Talk: Speculative Software Methods @ University of Alabama, November 21
 - [Society for the History of Technology presentation](https://www.historyoftechnology.org/annual-meeting/2024-joint-icohtec-shot-annual-meeting/2024-joint-icohtec-shot-annual-meeting-call-for-papers/)
 - [NIH: Exploring the Many Dimensions of Sex and Gender](https://www.genome.gov/event-calendar/exploring-the-many-dimensions-of-sex-and-gender-in-the-genomics-era)
 - Spoke at at Berkman Klein's Race + Tech working group 
@@ -37,12 +40,9 @@ I am currently a postdoctoral researcher at MIT, where I work in Catherine D'Ign
 - Just finished a research project about US-based transgender activists and how they work with data in their activism
 
 <h3>👨‍🏫 Teaching</h3>
-
-- The Moviegoer's Guide To The Future at Arizona State University (Summer 2024)
+- Senior Data Science Capstone + "Data Science Goes To the Movies" @ Smith College (Fall 2025)
+- The Moviegoer's Guide To The Future at Arizona State University (Summer 2025)
 - Sociology of Databases at Hunter College (Fall 2024)
 
-<h3>🏛️ Civic and Community Life</h3>
 
-- Trying to figure out how to be a useful elected official (read more at: [Open Gov Vermont](/series/open-gov-vermont/).)
-- I'm elected to the Bradford select board, and I'm newly retired from being the Interm Town Health Officer.
 
