@@ -6,7 +6,7 @@ baseURL = "https://nikkistevens.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 20
+pagination.pagerSize  = 20
 summaryLength = 30
 
 buildDrafts = false
